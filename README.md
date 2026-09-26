@@ -2,9 +2,12 @@
 
 # 👨‍💻 Eduardo Fafián
 
-### Estudiante de DAM · Desarrollo de Aplicaciones Multiplataforma
+### Técnico en Sistemas IT · Estudiante de DAM · Java Backend Focus
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Aprendiendo+Java+%26+SQL+desde+cero;Construyendo+mi+camino+hacia+un+perfil+Full-Stack;Objetivo%3A+carrera+t%C3%A9cnica+internacional+%F0%9F%87%A8%F0%9F%87%A6)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Java+21+%26+SQL+Backend+Focus;Base+en+Sistemas%2C+Linux+%26+Redes;Evolución+hacia+Arquitectura+de+Software;Objetivo%3A+Carrera+T%C3%A9cnica+en+Canad%C3%A1+%F0%9F%87%A8%F0%9F%87%A6)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-fafi%C3%A1n-montero/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.fafianmontero@gmail.com)
 
 </div>
 
@@ -12,73 +15,67 @@
 
 ## 🎯 Sobre mí
 
-Empiezo mi formación en desarrollo de software con un objetivo claro a largo plazo: construir una carrera técnica sólida con proyección internacional, con la vista puesta en trabajar como desarrollador en **Canadá 🇨🇦**.
+Técnico en Sistemas Microinformáticos y Redes (SMR) en transición hacia la ingeniería de software a través del Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. 
 
-Este repositorio documenta ese camino desde el primer día: lo que aprendo, lo que construyo y cómo evoluciono como programador.
+Mi objetivo a largo plazo es construir una carrera técnica sólida en el ámbito del **desarrollo Backend con Java** y proyectarme profesionalmente hacia el mercado de **Canadá 🇨🇦**.
+
+Este repositorio documenta mi evolución diaria: arquitectura, código en Java, diseño de bases de datos y proyectos reales.
 
 ---
 
-## 📚 En qué estoy formándome
+## 🧰 Stack Técnico & Herramientas
+
+### Lenguajes & Backend
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Sistemas & Entorno
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+---
+
+## 📚 Módulos & Áreas de Trabajo (DAM)
 
 <details>
-<summary><b>Ver contenidos actuales (clic para desplegar)</b> 👇</summary>
+<summary><b>Ver contenidos en desarrollo (clic para desplegar)</b> 👇</summary>
 
 <br>
 
-| Área | Contenido |
+| Área | Tecnologías / Conceptos |
 | :--- | :--- |
-| ☕ **Programación** | Java |
-| 🗃️ **Bases de datos** | SQL, JDBC, JPQL |
-| 🏷️ **Lenguajes de marcas** | HTML, CSS, XML, JSON |
-| ⚙️ **Sistemas** | Entornos de desarrollo |
-
-> El stack se irá ampliando de forma progresiva y documentada a medida que avance el curso.
+| ☕ **Programación** | Java 21, POO, Estructuras de Datos, Algoritmos |
+| 🗃️ **Bases de Datos** | SQL (Diseño Relacional, Consultas Avanzadas, Normalización), JDBC |
+| ⚙️ **Sistemas & Entornos** | Linux, Bash, Control de Versiones (Git), Entornos de Desarrollo |
+| 🏷️ **Lenguajes de Marcas** | HTML5, CSS3, XML, JSON |
 
 </details>
 
 ---
 
-## 🛠️ Herramientas de trabajo
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🌱 Proyectos
+## 🌱 Proyectos & Repositorios Destacados
 
 <details>
-<summary><b>En construcción</b> 👇</summary>
+<summary><b>Ver repositorios en construcción</b> 👇</summary>
 
 <br>
 
-Cada proyecto de clase o personal se irá enlazando aquí a medida que esté listo para mostrarse. Vuelve pronto.
+*Aquí iré enlazando los proyectos principales a medida que avance el curso:*
+- 📦 **[Nombre del Proyecto 1]**: *Breve descripción del proyecto en Java o SQL.*
+- 📦 **[Nombre del Proyecto 2]**: *Breve descripción.*
 
 </details>
 
 ---
 
-## 🎯 Objetivo a largo plazo
+## 🗺️ Hoja de Ruta
 
-```
-progreso_actual   → DAM, 1º curso
-siguiente_hito    → FCT (marzo)
-destino_final     → carrera técnica internacional en Canadá 🇨🇦
-```
-
----
-
-## 🤝 Fuera del código
-
-- 🚑 **Voluntario en Cruz Roja** — trabajo en equipo y gestión del estrés bajo presión.
-
----
-
-<div align="center">
-
-📌 *Este README se actualiza a medida que avanzo — vuelve a pasarte por aquí.*
-
-</div>
+```text
+estado_actual   ➔ DAM 1º Curso + Base en Sistemas IT
+siguiente_hito  ➔ Proyectos Java/SQL + Prácticas Dual / FCT
+meta_final      ➔ Java Backend Engineer en Canadá 🇨🇦
