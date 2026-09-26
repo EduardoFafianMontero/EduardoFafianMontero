@@ -1,81 +1,78 @@
 <div align="center">
 
-# 👨‍💻 Eduardo Fafián
+# 👋 Hola, soy Eduardo Fafián
 
-### Técnico en Sistemas IT · Estudiante de DAM · Java Backend Focus
+### **Técnico en Sistemas (SMR) ➔ Desarrollador Java Backend en formación ☕**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Java+21+%26+SQL+Backend+Focus;Base+en+Sistemas%2C+Linux+%26+Redes;Evolución+hacia+Arquitectura+de+Software;Objetivo%3A+Carrera+T%C3%A9cnica+en+Canad%C3%A1+%F0%9F%87%A8%F0%9F%87%A6)
+*Construyendo código limpio con la perspectiva de quien entiende la infraestructura por debajo.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-fafi%C3%A1n-montero/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.fafianmontero@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/eduardo-fafi%C3%A1n-montero/) • [🎥 YouTube](https://www.youtube.com/@edufafii) • [✉️ Email](mailto:e.fafianmontero@gmail.com) • [💬 Discord](https://discord.com)
+
+---
 
 </div>
 
----
+## 📌 Sobre mí
 
-## 🎯 Sobre mí
-
-Técnico en Sistemas Microinformáticos y Redes (SMR) en transición hacia la ingeniería de software a través del Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. 
-
-Mi objetivo a largo plazo es construir una carrera técnica sólida en el ámbito del **desarrollo Backend con Java** y proyectarme profesionalmente hacia el mercado de **Canadá 🇨🇦**.
-
-Este repositorio documenta mi evolución diaria: arquitectura, código en Java, diseño de bases de datos y proyectos reales.
+- 🎓 **Formación:** Estudiante de la **FP Dual en Desarrollo de Aplicaciones Multiplataforma (DAM)** en el *IES Fernando Wirtz* (A Coruña).
+- 🛠️ **Background:** Técnico en **Sistemas Microinformáticos y Redes (SMR)** con experiencia previa en soporte, mantenimiento de infraestructura y entornos de red[span_0](start_span)[span_0](end_span).
+- 💡 **Enfoque técnico:** Programación Orientada a Objetos en **Java 21**, diseño relacional de **Bases de Datos (SQL)** y arquitectura de software.
+- 🌐 **Soft Skills:** Gestión del trabajo bajo presión y resolución rápida de problemas, curtido en emergencias (Cruz Roja) y entornos de atención internacional en inglés y español[span_1](start_span)[span_1](end_span).
+- 🎯 **Objetivo a largo plazo:** Especializarme en desarrollo Backend sólido con proyección hacia el mercado internacional (Canadá 🇨🇦).
 
 ---
 
-## 🧰 Stack Técnico & Herramientas
+## 🛠️ Tech Stack & Herramientas
 
-### Lenguajes & Backend
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### **Lenguajes & Backend**
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Sistemas & Entorno
+### **Sistemas e Infraestructura (SMR Base)**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Networking](https://img.shields.io/badge/Redes_&_Sistemas-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+
+### **Herramientas & Entorno**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📚 Módulos & Áreas de Trabajo (DAM)
+## 🚀 En lo que estoy trabajando actualmente
 
-<details>
-<summary><b>Ver contenidos en desarrollo (clic para desplegar)</b> 👇</summary>
-
-<br>
-
-| Área | Tecnologías / Conceptos |
-| :--- | :--- |
-| ☕ **Programación** | Java 21, POO, Estructuras de Datos, Algoritmos |
-| 🗃️ **Bases de Datos** | SQL (Diseño Relacional, Consultas Avanzadas, Normalización), JDBC |
-| ⚙️ **Sistemas & Entornos** | Linux, Bash, Control de Versiones (Git), Entornos de Desarrollo |
-| 🏷️ **Lenguajes de Marcas** | HTML5, CSS3, XML, JSON |
-
-</details>
+- ☕ **Java 21:** Profundizando en principios SOLID, POO, colecciones, manejo seguro de E/S (`Scanner`, excepciones) y concurrencia básica.
+- 🗃️ **Bases de Datos:** Modelado Entidad-Relación, normalización de esquemas y optimización de consultas con `JOINs` en SQL.
+- 📢 **Learning in Public:** Documentando mi proceso de aprendizaje diario en **LinkedIn** y creando DevLogs en **YouTube** sobre proyectos reales.
 
 ---
 
-## 🌱 Proyectos & Repositorios Destacados
+## 💻 Proyectos destacados
 
-<details>
-<summary><b>Ver repositorios en construcción</b> 👇</summary>
-
-<br>
-
-*Aquí iré enlazando los proyectos principales a medida que avance el curso:*
-- 📦 **[Nombre del Proyecto 1]**: *Breve descripción del proyecto en Java o SQL.*
-- 📦 **[Nombre del Proyecto 2]**: *Breve descripción.*
-
-</details>
+| Proyecto | Descripción | Tech Stack | Estado |
+| :--- | :--- | :--- | :--- |
+| **[Prácticas Dual DAM](./)** | Ejercicios y proyectos de lógica de programación, algoritmos y gestión de memoria. | `Java 21` | 🟡 En desarrollo |
+| **[Diseño BD Relacionales](./)** | Esquemas de bases de datos, scripts SQL y consultas complejas para casos de estudio. | `SQL` / `MySQL` | 🟡 En desarrollo |
+| **[Backend + JDBC App](./)** | *Próximamente:* Aplicación Java conectada a base de datos relacional con persistencia. | `Java 21` / `SQL` | ⏳ Planificado |
 
 ---
 
-## 🗺️ Hoja de Ruta
+## 📬 Conecta conmigo
 
-```text
-estado_actual   ➔ DAM 1º Curso + Base en Sistemas IT
-siguiente_hito  ➔ Proyectos Java/SQL + Prácticas Dual / FCT
-meta_final      ➔ Java Backend Engineer en Canadá 🇨🇦
+Si buscas un desarrollador Junior con ganas de aprender rápido, rigor técnico en código y comprensión de infraestructura, ¡encantado de hablar!
+
+- 💼 **LinkedIn:** [Eduardo Fafián Montero](https://www.linkedin.com/in/eduardo-fafi%C3%A1n-montero/)
+- 🎥 **YouTube:** [@edufafii](https://www.youtube.com/@edufafii)
+- 💬 **Discord:** `edufafi`
+- ✉️ **Correo profesional:** [e.fafianmontero@gmail.com](mailto:e.fafianmontero@gmail.com)
+
+---
+
+<div align="center">
+  <sub>"Si entiendes cómo funciona el sistema por debajo, escribirás mejor código por arriba."</sub>
+</div>
