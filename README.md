@@ -15,9 +15,9 @@
 ## 📌 Sobre mí
 
 - 🎓 **Formación:** Estudiante de la **FP Dual en Desarrollo de Aplicaciones Multiplataforma (DAM)** en el *IES Fernando Wirtz* (A Coruña).
-- 🛠️ **Background:** Técnico en **Sistemas Microinformáticos y Redes (SMR)** con experiencia previa en soporte, mantenimiento de infraestructura y entornos de red[span_0](start_span)[span_0](end_span).
+- 🛠️ **Background:** Técnico en **Sistemas Microinformáticos y Redes (SMR)** con experiencia previa en soporte, mantenimiento de infraestructura y entornos de red
 - 💡 **Enfoque técnico:** Programación Orientada a Objetos en **Java 21**, diseño relacional de **Bases de Datos (SQL)** y arquitectura de software.
-- 🌐 **Soft Skills:** Gestión del trabajo bajo presión y resolución rápida de problemas, curtido en emergencias (Cruz Roja) y entornos de atención internacional en inglés y español[span_1](start_span)[span_1](end_span).
+- 🌐 **Soft Skills:** Gestión del trabajo bajo presión y resolución rápida de problemas, curtido en emergencias (Cruz Roja) y entornos de atención internacional en inglés y español
 - 🎯 **Objetivo a largo plazo:** Especializarme en desarrollo Backend sólido con proyección hacia el mercado internacional (Canadá 🇨🇦).
 
 ---
